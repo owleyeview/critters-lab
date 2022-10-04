@@ -15,7 +15,7 @@ public class Bear extends Critter { // creates the Bear class
         slash = true;
     }
 
-    public Color getColor(boolean polar) { //returns the Bear color
+    public Color getColor() { //returns the Bear color
         if ( polar ) {
             return Color.WHITE;
         } else {
