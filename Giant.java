@@ -7,6 +7,7 @@ Giant.java
 */
 
 import java.awt.*;
+
 public class Giant extends Critter { // creates the Giant class
     private int turnCount = 0;
     public Color getColor() { // returns the Giant color

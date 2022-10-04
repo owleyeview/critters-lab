@@ -7,6 +7,7 @@ Orca.java
 */
 
 import java.awt.*;
+
 public class Orca extends Critter { // creates the Orca class
     private boolean appearance = true; // variable for alternating appearance
     public Color getColor() { // returns the current color

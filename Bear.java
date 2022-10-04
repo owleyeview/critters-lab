@@ -7,6 +7,7 @@ Bear.java
 */
 
 import java.awt.*;
+
 public class Bear extends Critter { // creates the Bear class
     private boolean polar;
     private boolean slash;
